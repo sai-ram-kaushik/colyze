@@ -1,0 +1,62 @@
+{
+  "homePage": {
+    "title": "Innovate Your Ideas",
+    "content": "Connect, Create, Captivate: Your Social Universe, Redefined.",
+    "buttonTitle": "Explore Projects",
+    "image": "homeVector.svg"
+  },
+
+  "whyus": {
+    "title": "Why Us",
+    "content": [
+      {
+        "index": "01",
+        "title": "Technology and Innovation",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi!"
+      },
+      {
+        "index": "02",
+        "title": "Technology and Innovation",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi!"
+      },
+      {
+        "index": "03",
+        "title": "Technology and Innovation",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi!"
+      },
+      {
+        "index": "04",
+        "title": "Technology and Innovation",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi!"
+      }
+    ]
+  },
+
+  "aboutUs": {
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi!",
+    "image": "aboutVector.svg"
+  },
+
+  "faq": {
+    "title": "FAQ",
+    "content": [
+      {
+        "title": "Question about Something",
+        "ans": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi"
+      },
+      {
+        "title": "Question about Something",
+        "ans": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi"
+      },
+      {
+        "title": "Question about Something",
+        "ans": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi"
+      },
+      {
+        "title": "Question about Something",
+        "ans": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi"
+      }
+    ],
+    "image": "faq.svg"
+  }
+}
